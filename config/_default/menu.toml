@@ -25,4 +25,39 @@ url = "https://twitter.com/yhoaua"
 icon = "brand-twitter"
 
 
+[[social]]
+identifier = "netease-music"
+name = "NeteaseMusic"
+url = "https://music.163.com/#/user/home?id=8493943724"
+
+[social.params]
+icon = "brand-netease-music"
+
+
+[[social]]
+identifier = "bilibili"
+name = "bilibili"
+url = "https://space.bilibili.com/431471608"
+
+[social.params]
+icon = "brand-bilibili"
+
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/yhoauann"
+
+[social.params]
+icon = "brand-instagram"
+
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://www.youtube.com/@yhoauann"
+
+[social.params]
+icon = "brand-youtube"
+
 
