@@ -14,7 +14,7 @@ url = "https://github.com/YHOAUANN"
 
 [social.params]
 icon = "brand-github"
-newTab: true
+
 
 [[social]]
 identifier = "twitter"
@@ -23,7 +23,6 @@ url = "https://twitter.com/yhoaua"
 
 [social.params]
 icon = "brand-twitter"
-newTab: true
 
 
 
