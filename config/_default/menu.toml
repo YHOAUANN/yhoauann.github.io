@@ -34,30 +34,3 @@ url = "https://music.163.com/#/user/home?id=8493943724"
 icon = "brand-netease-music"
 newTab: true
 
-[[social]]
-identifier = "bilibili"
-name = "Bilibili"
-url = "https://space.bilibili.com/431471608"
-
-[social.params]
-icon = "brand-bilibili"
-newTab: true
-
-[[social]]
-identifier = "instagram"
-name = "Instagram"
-url = "https://www.instagram.com/yhoauann"
-
-[social.params]
-icon = "brand-instagram"
-newTab: true
-
-[[social]]
-identifier = "youtube"
-name = "Youtube"
-url = "https://www.youtube.com/@yhoauann"
-
-[social.params]
-icon = "brand-youtube"
-newTab: true
-
